@@ -1,3 +1,9 @@
+# Tyler Hedegard 5/11/2016
+# Thinkful.com Python Introduction Lesson 1
+# FizzBuzz Assignment
+
+# Note: sorry I couldn't make this on gist.github.com.
+# My company isn't allowing that url for one reason or another, so I just added it to github
 import sys
 
 if len(sys.argv) == 1:
